@@ -12,9 +12,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <Posts />
-        <hr />
         <PostForm />
+        <hr />
+        <Posts />
       </header>
     </div>
   );
